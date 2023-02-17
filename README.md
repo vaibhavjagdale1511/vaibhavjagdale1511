@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vaibhav Jagadale 
 - 👀 I’m interested in Data Science Domain 
-- 🌱 I’m currently learning A Data Analyst  Skill
-- 💞️ I’m looking For a Data Analyst intership
+- 🌱 I’m currently learning A Data Analyst Skill
+- 💞️ I’m looking For a Data Analyst JOb 
 - 📫 You Can send a mail on vaibhavjagdale1511@gmail 
 
 <!---
